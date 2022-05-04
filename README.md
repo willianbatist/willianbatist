@@ -17,7 +17,7 @@ Always looking for new knowledge. Programming enthusiast.
 
 :wrench:  Other techs I've got some experience: ⏳ Under development...
 
-:video_game:  About me:  I really enjoy playing games, cooking, wtahing movies.
+:video_game:  About me:  I really enjoy playing games, cooking, watching movies.
 
 -----
 

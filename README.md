@@ -13,7 +13,7 @@ Always looking for new knowledge. Programming enthusiast.
 -----   
 🛠️ I'm working on projects everyday, joining events and keeping my knowledge fresh. More infos my [linkedin](https://www.linkedin.com/in/willian-alves-batista/) and [GitHub](https://github.com/willianbatist?tab=repositories).
 
-🤖 My Main Hard Skills: ReactJS, Redux, API, ReactHooks.
+🤖 My Main Hard Skills: ReactJS, Redux, ReactHooks, Node.Js, TypeScript, API RestFull, Docker, SQL.
 
 :wrench:  Other techs I've got some experience: ⏳ Under development...
 

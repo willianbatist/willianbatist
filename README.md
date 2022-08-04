@@ -26,8 +26,8 @@ Always looking for new knowledge. Programming enthusiast.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianbatist&theme=algolia" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianbatist&layout=compact&theme=algolia" />
 </div>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mysql,mongodb,supabase,docker,heroku,git,github,jest,bash)](https://skillicons.dev)
 ------
   
 #### Contact me:

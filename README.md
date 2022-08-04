@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WillianAlves%20&fontAlignY=40&color=gradient)
 ### Hey! Welcome to my GitHub! 👋
 Here you'll have access to my projects and my learning timeline!
 

@@ -7,12 +7,12 @@ Aqui você terá acesso aos meus projetos e minha linha do tempo de aprendizado!
 # Aqui estão algumas informações sobre mim:
 Sou desenvolvimento FullStack na Trybe.
 
-Graduated in Archival Science and Love for Information Science.👨‍💻
+Graduado em Arquivologia e Apaixonado pela Ciência da Informação.👨‍💻
 
-Always looking for new knowledge. Programming enthusiast.
+Sempre em busca de novos conhecimentos. Entusiasta da programação.
 
 -----   
-🛠️ I'm working on projects everyday, joining events and keeping my knowledge fresh. More infos my [linkedin](https://www.linkedin.com/in/willian-alves-batista/) and [GitHub](https://github.com/willianbatist?tab=repositories).
+🛠️ Estou trabalhando em projetos todos os dias, participando de eventos e mantendo meus conhecimentos atualizados. Mais infos meu [linkedin](https://www.linkedin.com/in/willian-alves-batista/) e [GitHub](https://github.com/willianbatist?tab=repositories).
 
 🤖 My Main Hard Skills: ReactJS, Redux, ReactHooks, Node.Js, TypeScript, API RestFull, Docker, SQL.
 

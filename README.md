@@ -18,7 +18,7 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
 
 :wrench:  Outras habilidades que tenho alguma experiência: ⏳ Em desenvolvimento...
 
-:video_game:  About me:  Eu gosto de jogar, cozinhar e assistir filmes.
+:video_game:  Sobre mim:  Eu gosto de jogar, cozinhar e assistir filmes.
 
 -----
 

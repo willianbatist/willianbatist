@@ -31,7 +31,7 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mysql,mongodb,supabase,docker,heroku,git,github,jest,bash)](https://skillicons.dev)
 ------
   
-#### Contact me:
+#### Contate-me:
   
   :mailbox: willian.alves.b15@gmail.com
   

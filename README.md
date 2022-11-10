@@ -4,8 +4,8 @@ Aqui você terá acesso aos meus projetos e minha linha do tempo de aprendizado!
 
 ## Eu sou Willian Batista
 
-# Here's some info about me:
-I'm also a FullStack Development Student at Trybe.
+# Aqui estão algumas informações sobre mim:
+Sou desenvolvimento FullStack na Trybe.
 
 Graduated in Archival Science and Love for Information Science.👨‍💻
 

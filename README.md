@@ -1,8 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WillianBatista%20&fontAlignY=40&color=gradient)
-### Hey! Welcome to my GitHub! 👋
-Here you'll have access to my projects and my learning timeline!
+### Ei! Bem vindo ao meu GitHub! 👋
+Aqui você terá acesso aos meus projetos e minha linha do tempo de aprendizado!
 
-## I'm Willian Batista
+## Eu sou Willian Batista
 
 # Here's some info about me:
 I'm also a FullStack Development Student at Trybe.

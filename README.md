@@ -14,7 +14,7 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
 -----   
 🛠️ Estou trabalhando em projetos todos os dias, participando de eventos e mantendo meus conhecimentos atualizados. Mais infos meu [linkedin](https://www.linkedin.com/in/willian-alves-batista/) e [GitHub](https://github.com/willianbatist?tab=repositories).
 
-🤖 Minhas principais habilidades: ReactJS, Redux, ReactHooks, Node.Js, TypeScript, API RestFull, Docker, SQL.
+🤖 Minhas principais habilidades: ReactJS, Redux, ReactHooks, Node.Js, TypeScript, API RestFull, Docker, SQL, MongoDB.
 
 :wrench:  Outras habilidades que tenho alguma experiência: ⏳ Em desenvolvimento...
 

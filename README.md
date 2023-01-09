@@ -25,11 +25,17 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
 ![Anurag's GitHub stats](https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&count_private=true&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats-will-willianbatist.vercel.app/api/top-langs/?username=willianbatist&layout=compact&theme=transparent)](https://github.com/willianbatist)
 
-<div>
-  <a href="https://github.com/willianbatist">
-  <img height="180em" src="github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&count_private=true&show_icons=true&theme=transparent" />
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=willianbatist&layout=compact&theme=algolia](https://github-readme-stats-will-willianbatist.vercel.app/api/top-langs/?username=willianbatist&layout=compact&theme=transparent)" />
-</div>
+<picture>
+<source 
+  srcset="https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&count_private=true&show_icons=true&theme=transparent"
+  media="(prefers-color-scheme: transparent)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="180em" src="transparent" />
+</picture>
 
 
   

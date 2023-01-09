@@ -22,6 +22,8 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
 
 -----
 
+![Anurag's GitHub stats](https://github-readme-stats-will-willianbatist.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 <div>
   <a href="https://github.com/willianbatist">
   <img height="180em" src="https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&theme=algolia" />

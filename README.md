@@ -22,14 +22,8 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
 
 -----
 
-![Anurag's GitHub stats](https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&count_private=true&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&count_private=true&show_icons=true&theme=transparent)
 
-<div>
-  <a href="https://github.com/willianbatist">
-  <img height="180em" src="https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats-will-willianbatist.vercel.app/?username=willianbatist&layout=compact&theme=algolia" />
-</div>
 
   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mysql,mongodb,supabase,docker,heroku,git,github,jest,bash)](https://skillicons.dev)

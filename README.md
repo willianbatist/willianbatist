@@ -22,8 +22,6 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
 
 -----
 
-![Anurag's GitHub stats](https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&count_private=true&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats-will-willianbatist.vercel.app/api/top-langs/?username=willianbatist&layout=compact&theme=transparent)](https://github.com/willianbatist)
 
 <picture>
 <source 
@@ -31,7 +29,7 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
   media="(prefers-color-scheme: transparent)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=willianbatist&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img height="180em" src="transparent" />

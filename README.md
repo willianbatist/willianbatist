@@ -25,7 +25,7 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
 
 <picture>
 <source 
-  srcset="https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&count_private=true&show_icons=true&theme=transparent"
+  srcset="https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&count_private=true&theme=transparent"
   media="(prefers-color-scheme: transparent)"
 />
 <source

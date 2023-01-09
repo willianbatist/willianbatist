@@ -23,6 +23,7 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
 -----
 
 ![Anurag's GitHub stats](https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&count_private=true&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats-will-willianbatist.vercel.app/api?username=willianbatist&count_private=true&show_icons=true&theme=transparent)
 
 <div>
   <a href="https://github.com/willianbatist">

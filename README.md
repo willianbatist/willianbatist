@@ -16,7 +16,7 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
 
 🤖 Minhas principais habilidades: ReactJS, Redux, ReactHooks, Node.Js, TypeScript, API RestFull, Docker, SQL, MongoDB.
 
-:wrench:  Outras habilidades que tenho alguma experiência: ⏳ Em desenvolvimento...
+:wrench:  Outras habilidades que tenho alguma experiência: Next e Nest.
 
 :video_game:  Sobre mim:  Eu gosto de jogar, cozinhar e assistir filmes.
 

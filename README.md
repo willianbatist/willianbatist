@@ -48,3 +48,11 @@ Sempre em busca de novos conhecimentos. Entusiasta da programação.
 ## [Landing Page Agency](https://mk-digital-agency.netlify.app/)
 
 ## [Landing Page Hotel Vision](https://willian-alves-hotel-vision.netlify.app/)
+
+## [Site Star Wars](https://willian-alves-batista-frontend.vercel.app/)
+
+## [Calculadora de Porcentagem](https://percentage-calculator-will.netlify.app/)
+
+## [Projeto Full Stack CRUD de Processos](https://github.com/willianbatist/projeto-front-end)
+
+## [Projeto User Registration API](https://github.com/willianbatist/project-user_registration_api)

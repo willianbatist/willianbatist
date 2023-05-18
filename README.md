@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WillianBatista%20&fontAlignY=40&color=gradient)
-### Ei! Bem vindo ao meu GitHub 👋
+###
 Aqui você terá acesso aos meus projetos e minha linha do tempo de aprendizado!
 
 ## Eu sou Willian Batista
